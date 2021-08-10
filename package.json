@@ -1,0 +1,28 @@
+{
+  "name": "@oawu/ddns",
+  "version": "1.0.0",
+  "description": "🌐 給予我的 IP 一個漂亮的名稱吧 DDNS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comdan66/node-DDNS.git"
+  },
+  "keywords": [
+    "DDNS", "Cloudflare", "Public IP"
+  ],
+  "author": {
+    "name": "OA Wu",
+    "email": "comdan66@gmail.com",
+    "url": "https://www.ioa.tw"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/comdan66/node-DDNS/issues"
+  },
+  "homepage": "https://github.com/comdan66/node-DDNS#readme",
+  "dependencies": {
+  }
+}
