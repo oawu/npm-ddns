@@ -1,6 +1,6 @@
 {
   "name": "@oawu/ddns",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "🌐 給予我的 IP 一個漂亮的名稱吧 DDNS",
   "main": "index.js",
   "scripts": {
