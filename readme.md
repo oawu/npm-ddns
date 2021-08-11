@@ -28,7 +28,6 @@ npm install @oawu/ddns
 
 2. 監控
 
-
 ```javascript
   const DDNS = require('@oawu/ddns')
   const cloudflare = DDNS.Cloudflare('auth_token', 'domain', ['sub'])
