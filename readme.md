@@ -20,7 +20,7 @@ npm install @oawu/ddns
   const DDNS = require('@oawu/ddns')
   const cloudflare = DDNS.Cloudflare('auth_token', 'domain', ['sub'])
 
-  // 第二餐數為 是否先是 log
+  // 第二參數 是否顯示 log
   cloudflare.update((error, data) => {
     console.error(error, data);
   }, true)
