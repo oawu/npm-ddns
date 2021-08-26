@@ -10,7 +10,7 @@ const { create: Queue }     = require('@oawu/queue')
 
 const Request  = require('./lib/Request.js')
 const Platform = require('./lib/Platform.js')
-const IP       = require('./lib/ip.js')
+const IP       = require('./lib/IP.js')
 
 const Cloudflare = function(token, domain, subDomainNames) {
   if (!(this instanceof Cloudflare)) return new Cloudflare(token, domain, subDomainNames)

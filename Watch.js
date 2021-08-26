@@ -9,7 +9,7 @@ const Path       = require('path')
 const FileSystem = require('fs')
 
 const Platform   = require('./lib/Platform.js')
-const IP         = require('./lib/ip.js')
+const IP         = require('./lib/IP.js')
 
 const { title, done, fail } = require('@oawu/cli-progress')
 const { create: Queue }     = require('@oawu/queue')
