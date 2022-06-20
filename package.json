@@ -1,6 +1,6 @@
 {
   "name": "@oawu/ddns",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "🌐 給予我的 IP 一個漂亮的名稱吧 DDNS",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/comdan66/node-DDNS.git"
+    "url": "git+https://github.com/oawu/npm-ddns.git"
   },
   "keywords": [
     "DDNS",
@@ -17,16 +17,16 @@
   ],
   "author": {
     "name": "OA Wu",
-    "email": "comdan66@gmail.com",
+    "email": "oawu.tw@gmail.com",
     "url": "https://www.ioa.tw"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/comdan66/node-DDNS/issues"
+    "url": "https://github.com/oawu/npm-ddns/issues"
   },
-  "homepage": "https://github.com/comdan66/node-DDNS#readme",
+  "homepage": "https://github.com/oawu/npm-ddns#readme",
   "dependencies": {
-    "@oawu/cli-progress": "^1.0.13",
-    "@oawu/queue": "^1.0.10"
+    "@oawu/cli-progress": "^1.0.15",
+    "@oawu/queue": "^1.0.11"
   }
 }
